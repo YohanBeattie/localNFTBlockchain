@@ -4,7 +4,7 @@
     "id":0,
     "description": "Lets try a first sample NFT",
     "external_url": "https://www.port.ac.uk/-/media/images/heros---1200x400-large---640x400-small/homepage/university-of-portsmouth-800x400.jpg",
-    "name": "Local NFT 0",
+    "name": "Local NFT 0"
   },
   {
     "id":0,
@@ -14,4 +14,3 @@
   }
 ]
 }
-  
