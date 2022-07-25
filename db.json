@@ -5,16 +5,12 @@
     "description": "Lets try a first sample NFT",
     "external_url":"https://www.port.ac.uk/-/media/images/heros---1200x400-large---640x400-small/homepage/university-of-portsmouth-800x400.jpg",
     "name": "Local NFT 0",
-    "maxContentLength": "Infinity",
-    "maxBodyLength": "Infinity"
   },
   {
     "id":0,
     "description": "Lets try a first sample NFT",
     "external_url":"https://yt3.ggpht.com/ytc/AKedOLRovOiyWiDCr1tOu-1cfXDHHukZHQPwKj6uNO6Ljw=s900-c-k-c0x00ffffff-no-rj",
-    "name": "Local NFT 1",
-    "maxContentLength": "Infinity",
-    "maxBodyLength": "Infinity"
+    "name": "Local NFT 1"
   }
 ]
 }
